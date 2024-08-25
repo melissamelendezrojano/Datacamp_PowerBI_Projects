@@ -19,6 +19,7 @@ The dataset **Wide World Importers (WWI)**, a wholesale importer and distributor
   • DimCity.csv
 
 
+
 The dataset **Contoso**, a fictional retail company working to meet sales goals, includes the following files:
 
 ### Fact table:
