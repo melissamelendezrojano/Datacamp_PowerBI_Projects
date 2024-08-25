@@ -2,7 +2,7 @@
 
 This repository stores Datacamp exercises from the Introduction to Power BI course.
 
-The dataset Wide World Importers (WWI), a wholesale importer and distributor of novelty items operating out of San Francisco, includes the following files:
+The dataset **Wide World Importers (WWI)**, a wholesale importer and distributor of novelty items operating out of San Francisco, includes the following files:
 
 ### Fact table:
   • FactSales.csv: Sales information related to the company
@@ -19,7 +19,7 @@ The dataset Wide World Importers (WWI), a wholesale importer and distributor of 
   • DimCity.csv
 
 
-The dataset Contoso, a fictional retail company working to meet sales goals, includes the following files:
+The dataset **Contoso**, a fictional retail company working to meet sales goals, includes the following files:
 
 ### Fact table:
   • FactStrategyPlan.csv
